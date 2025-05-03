@@ -1,0 +1,378 @@
+LOCUS       NM_000451               7934 bp    mRNA    linear   PRI 13-OCT-2024
+DEFINITION  Homo sapiens SHOX homeobox (SHOX), transcript variant 1, mRNA.
+ACCESSION   NM_000451
+VERSION     NM_000451.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7934)
+  AUTHORS   Hattori,A., Seki,A., Inaba,N., Nakabayashi,K., Takeda,K.,
+            Tatsusmi,K., Naiki,Y., Nakamura,A., Ishiwata,K., Matsumoto,K.,
+            Nasu,M., Okamura,K., Michigami,T., Katoh-Fukui,Y., Umezawa,A.,
+            Ogata,T., Kagami,M. and Fukami,M.
+  TITLE     Expression levels and DNA methylation profiles of the growth gene
+            SHOX in cartilage tissues and chondrocytes
+  JOURNAL   Sci Rep 14 (1), 8069 (2024)
+   PUBMED   38580675
+  REMARK    GeneRIF: Expression levels and DNA methylation profiles of the
+            growth gene SHOX in cartilage tissues and chondrocytes.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 7934)
+  AUTHORS   Srivastava,P., Tyagi,A., Bamba,C., Kumari,A., Kaur,H., Seth,S.,
+            Kaur,A., Panigrahi,I., Dayal,D., Pramanik,S. and Mandal,K.
+  TITLE     SHOX Variations in Idiopathic Short Stature in North India and a
+            Review of Cases from Asian Countries
+  JOURNAL   J Clin Res Pediatr Endocrinol 16 (1), 41-49 (2024)
+   PUBMED   37750395
+  REMARK    GeneRIF: SHOX Variations in Idiopathic Short Stature in North India
+            and a Review of Cases from Asian Countries.
+            Review article
+REFERENCE   3  (bases 1 to 7934)
+  AUTHORS   Dantas,N.C.B., Funari,M.F.A., Lerario,A.M., Andrade,N.L.M.,
+            Rezende,R.C., Cellin,L.P., Alves,C., Crisostomo,L.G.,
+            Arnhold,I.J.P., Mendonca,B., Scalco,R.C. and Jorge,A.A.L.
+  TITLE     Identification of a second genetic alteration in patients with SHOX
+            deficiency individuals: a potential explanation for phenotype
+            variability
+  JOURNAL   Eur J Endocrinol 189 (3), 387-395 (2023)
+   PUBMED   37695807
+  REMARK    GeneRIF: Identification of a second genetic alteration in patients
+            with SHOX deficiency individuals: a potential explanation for
+            phenotype variability.
+REFERENCE   4  (bases 1 to 7934)
+  AUTHORS   Vodopiutz,J., Steurer,L.M., Haufler,F., Laccone,F.,
+            Garczarczyk-Asim,D., Hilkenmeier,M., Steinbauer,P. and Janecke,A.R.
+  TITLE     Leri-Weill Dyschondrosteosis Caused by a Leaky Homozygous SHOX
+            Splice-Site Variant
+  JOURNAL   Genes (Basel) 14 (4), 877 (2023)
+   PUBMED   37107635
+  REMARK    GeneRIF: Leri-Weill Dyschondrosteosis Caused by a Leaky Homozygous
+            SHOX Splice-Site Variant.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 7934)
+  AUTHORS   Li,L., Fu,F., Li,R., Jing,X., Yu,Q., Zhou,H., Wang,Y., Yang,X.,
+            Pan,M., Han,J., Zhen,L., Li,D. and Liao,C.
+  TITLE     Genetic Analysis and Sonography Characteristics in Fetus with SHOX
+            Haploinsufficiency
+  JOURNAL   Genes (Basel) 14 (1), 140 (2023)
+   PUBMED   36672881
+  REMARK    GeneRIF: Genetic Analysis and Sonography Characteristics in Fetus
+            with SHOX Haploinsufficiency.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 7934)
+  AUTHORS   Ogata,T., Yoshizawa,A., Muroya,K., Matsuo,N., Fukushima,Y.,
+            Rappold,G. and Yokoya,S.
+  TITLE     Short stature in a girl with partial monosomy of the
+            pseudoautosomal region distal to DXYS15: further evidence for the
+            assignment of the critical region for a pseudoautosomal growth
+            gene(s)
+  JOURNAL   J Med Genet 32 (10), 831-834 (1995)
+   PUBMED   8558568
+REFERENCE   7  (bases 1 to 7934)
+  AUTHORS   Kuznetzova,T., Baranov,A., Ivaschenko,T., Savitsky,G.A.,
+            Lanceva,O.E., Wang,M.R., Giollant,M., Malet,P., Kascheeva,T.,
+            Vakharlovsky,V. et al.
+  TITLE     X;Y translocation in a girl with short stature and some features of
+            Turner's syndrome: cytogenetic and molecular studies
+  JOURNAL   J Med Genet 31 (8), 649-651 (1994)
+   PUBMED   7815426
+REFERENCE   8  (bases 1 to 7934)
+  AUTHORS   Binder,G. and Rappold,G.A.
+  TITLE     SHOX Deficiency Disorders
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301394
+REFERENCE   9  (bases 1 to 7934)
+  AUTHORS   Ballabio,A., Bardoni,B., Carrozzo,R., Andria,G., Bick,D.,
+            Campbell,L., Hamel,B., Ferguson-Smith,M.A., Gimelli,G., Fraccaro,M.
+            et al.
+  TITLE     Contiguous gene syndromes due to deletions in the distal short arm
+            of the human X chromosome
+  JOURNAL   Proc Natl Acad Sci U S A 86 (24), 10001-10005 (1989)
+   PUBMED   2602357
+REFERENCE   10 (bases 1 to 7934)
+  AUTHORS   Zuffardi,O., Maraschio,P., Lo Curto,F., Muller,U., Giarola,A. and
+            Perotti,L.
+  TITLE     The role of Yp in sex determination: new evidence from X/Y
+            translocations
+  JOURNAL   Am J Med Genet 12 (2), 175-184 (1982)
+   PUBMED   6954848
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BX004827.19.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Feb 25, 2021 this sequence version replaced NM_000451.3.
+            
+            Summary: This gene belongs to the paired homeobox family and is
+            located in the pseudoautosomal region 1 (PAR1) of X and Y
+            chromosomes. Defects in this gene are associated with idiopathic
+            growth retardation and in the short stature phenotype of Turner
+            syndrome patients. This gene is highly conserved across species
+            from mammals to fish to flies. Alternatively spliced transcript
+            variants encoding different isoforms have been noted for this gene.
+            [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (SHOXa).
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038193.4103426.1,
+                                           SRR14038197.1094870.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2467142, SAMEA2467143
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000686671.1/ ENSP00000508521.1
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression, longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-384               BX004827.19        31275-31658
+            385-593             BX004827.19        35102-35310
+            594-651             BX004827.19        41305-41362
+            652-740             BX004827.19        41483-41571
+            741-7934            BX004827.19        44875-52068
+FEATURES             Location/Qualifiers
+     source          1..7934
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /chromosome="Y"
+                     /map="X"
+                     /map="Y"
+     gene            1..7934
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="SHOX homeobox"
+                     /db_xref="GeneID:6473"
+                     /db_xref="HGNC:HGNC:10853"
+                     /db_xref="MIM:312865"
+                     /db_xref="MIM:400020"
+     exon            1..384
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    18..20
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="upstream in-frame stop codon"
+     CDS             108..986
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="isoform SHOXa is encoded by transcript variant 1;
+                     growth control factor, X-linked; short stature homeobox;
+                     pseudoautosomal homeobox-containing osteogenic protein"
+                     /codon_start=1
+                     /product="short stature homeobox protein isoform SHOXa"
+                     /protein_id="NP_000442.1"
+                     /db_xref="CCDS:CCDS14107.1"
+                     /db_xref="GeneID:6473"
+                     /db_xref="HGNC:HGNC:10853"
+                     /db_xref="MIM:312865"
+                     /db_xref="MIM:400020"
+                     /translation="MEELTAFVSKSFDQKSKDGNGGGGGGGGKKDSITYREVLESGLA
+                     RSRELGTSDSSLQDITEGGGHCPVHLFKDHVDNDKEKLKEFGTARVAEGIYECKEKRE
+                     DVKSEDEDGQTKLKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR
+                     VQVWFQNRRAKCRKQENQMHKGVILGTANHLDACRVAPYVNMGALRMPFQQVQAQLQL
+                     EGVAHAHPHLHPHLAAHAPYLMFPPPPFGLPIASLAESASAAAVVAAAAKSNSKNSSI
+                     ADLRLKARKHAEALGL"
+     misc_feature    108..209
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="propagated from UniProtKB/Swiss-Prot (O15266.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    405..464
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="propagated from UniProtKB/Swiss-Prot (O15266.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    831..854
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="propagated from UniProtKB/Swiss-Prot (O15266.1);
+                     Region: SH3-binding. /evidence=ECO:0000255"
+     misc_feature    927..968
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="propagated from UniProtKB/Swiss-Prot (O15266.1);
+                     Region: OAR.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00138"
+     exon            385..593
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            594..651
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            652..740
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            741..7934
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      7913..7918
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="hexamer: AATAAA"
+     polyA_site      7934
+                     /gene="SHOX"
+                     /gene_synonym="GCFX; PHOG; SHOX1; SHOXY; SS"
+                     /note="major polyA site"
+ORIGIN      
+        1 gtaaataaca gcgctggtga tccacccgcg cgcacgggcc gtcctctccg cgcggggaga
+       61 cgcgcgcatc caccagcccc ggctgctcgc cagccccggc cccagccatg gaagagctca
+      121 cggcttttgt atccaagtct tttgaccaga aaagcaagga cggtaacggc ggaggcggag
+      181 gcggcggagg taagaaggat tccattacgt accgggaagt tttggagagc ggactggcgc
+      241 gctcccggga gctggggacg tcggattcca gcctccagga catcacggag ggcggcggcc
+      301 actgcccggt gcatttgttc aaggaccacg tagacaatga caaggagaaa ctgaaagaat
+      361 tcggcaccgc gagagtggca gaagggattt atgaatgcaa agagaagcgc gaggacgtga
+      421 agtcggagga cgaggacggg cagaccaagc tgaaacagag gcgcagccgc accaacttca
+      481 cgctggagca gctgaacgag ctcgagcgac tcttcgacga gacccattac cccgacgcct
+      541 tcatgcgcga ggagctcagc cagcgcctgg ggctctccga ggcgcgcgtg caggtttggt
+      601 tccagaaccg gagagccaag tgccgcaaac aagagaatca gatgcataaa ggcgtcatct
+      661 tgggcacagc caaccaccta gacgcctgcc gagtggcacc ctacgtcaac atgggagcct
+      721 tacggatgcc tttccaacag gtccaggctc agctgcagct ggaaggcgtg gcccacgcgc
+      781 acccgcacct gcacccgcac ctggcggcgc acgcgcccta cctgatgttc cccccgccgc
+      841 ccttcgggct gcccatcgcg tcgctggccg agtccgcctc ggccgccgcc gtggtcgccg
+      901 ccgccgccaa aagcaacagc aagaattcca gcatcgccga cctgcggctc aaggcgcgga
+      961 agcacgcgga ggccctgggg ctctgacccg ccgcgcagcc ccccgcgcgc ccggactccc
+     1021 gggctccgcg caccccgcct gcaccgcgcg tcctgcactc aaccccgcct ggagctcctt
+     1081 ccgcggccac cgtgctccgg gcaccccggg agctcctgca agaggcctga ggagggaggc
+     1141 tcccgggacc gtccacgcac gacccagcca gaccctcgcg gagatggtgc agaaggcgga
+     1201 gcgggtgagc ggccgtgcgt ccagcccggg cctctccaag gctgcccgtg cgtcctggga
+     1261 ccctggagaa gggtaaaccc ccgcctggct gcgtcttcct ctgctatacc ctatgcatgc
+     1321 ggttaactac acacgtttgg aagatcctta gagtctattg aaactgcaaa gatcccggag
+     1381 ctggtctccg atgaaaatgc catttcttcg ttgccaacga ttttctttac taccatgctc
+     1441 cttccttcat cccgagaggc tgcggaacgg gtgtggattt gaatgtggac ttcggaatcc
+     1501 caggaggcag gggccgggct ctcctccacc gctcccccgg agcctcccag gcagcaataa
+     1561 ggaaatagtt ctctggctga ggctgaggac gtgaaccgcg ggctttggaa agggagggga
+     1621 gggagacccg aacctcccac gttgggactc ccacgttccg gggacctgaa tgaggaccga
+     1681 ctttataact tttccagtgt ttgattccca aattgggtct ggttttgttt tggattggta
+     1741 tttttttttt tttttttttt tttttttttt tttgctgtgt tacaggattc agacgcaaaa
+     1801 gacttgcata agagacggac gcgtggttgc aaggtgtcat actgatatgc agcattaact
+     1861 ttactgacat ggagtgaagt gcaatattat aaatattata gattaaaaaa aaaatagccg
+     1921 tgcactcttg accccgtcag cgtccaacgt ggaaaaggcg ttacctcttc tcccagcgct
+     1981 ggccgcctgg ccactgaggg ccctttgcaa aaatcacggg tgtagagatg gccctgggcg
+     2041 cgctgggagt gtggttgtgt ttctgaaggg gataaaagag ggcacggtgg tgccaagata
+     2101 tcagtttggt acctgagctg tttctggttg ggaagcgtaa aagccaggga gagatccaga
+     2161 gagttttcaa gtttttgcag atgtaggtgg ttccagcttt tctttctccc ctactccatc
+     2221 ttctgcgttc ccccagttct tttatttctt tgttttttat ttttgagaca gagacttgct
+     2281 ttgtcgccca ggctggagtg cagtggcgca atgtcagctc actgccacct ccgcctcccg
+     2341 ggttcaagcg atgctcctgc ctcagcctcc cgagtagctg ggactacagg cacctgccac
+     2401 cacccccggc taattttttg tatttatagt agagacgggg tttcaccgtg ttggccaggc
+     2461 tcgtctcgaa ctcctgacct caggtgatct gcccgcctcg gcctcccaac gtgcccccag
+     2521 ttttataaac agcagatagc aacttgtcgt cacagctggc atgggctgga cagttgcttg
+     2581 aaatgaccta accaaaaaca ttcaagggtt ctgcccccag atttcgggag atccacgttc
+     2641 catgttctga ttggttttct gggaacacag caaggggttt ggtgacctcc gagaagatcc
+     2701 atctgcatga ttggcattag ttaccacagc ctgcccagag agaaactatc ttctcccaac
+     2761 atttactaac atccactggt caactctctt atttccataa cacatttgca tctttctgga
+     2821 ttcaagcttg gtggttttct ttcctaactt ctgatttaga tacttctccc tgaggtgggg
+     2881 ataaaagaaa aaaaaaaaca acttcttttt ttcttccgca taacactttc tatcttgtca
+     2941 ctgagctgaa ctgtagatcc atttggaccc gtctcatttg tatcttctga tattctttat
+     3001 acaaaccaaa agtccccttc aacatttttt atgtcaaaat gttacaaccg ctgtaaaatg
+     3061 acggagagag agagaaagaa tcccagacat taacggtatt agagagtttg cctcattcat
+     3121 ccatttttct taaaagctgg aaattaaaaa aaaaaaagag agagagaggc tttaatagtt
+     3181 aagctgaaat ttttatcgaa aagaagaatt gcattttgaa tctttgggaa gtaggttcat
+     3241 tcatcagagt atgtaaccct ttggaaaagt ggttggtaag atatgtacag ccctagattt
+     3301 ttttttttta accaaaaagg ctgagtaatt ttgaaaaatc gaaacataac agtgtgtcat
+     3361 catttcctcc caagaaaaag ctcactccac gtgagtagaa agacatctac ctggtccctg
+     3421 tagaatctga acgtttctct ttagagacgg aatttcaatc ttgtccccca ggctggagtg
+     3481 cagtggcaca atctcggctc accgcaacct ccgcctcccg ggttcaagcc attctcctgc
+     3541 ctcagcctcc cgagtagctg ggattacagg cacctgccac caggcctggg taactttctg
+     3601 gtatttttag tagagacagg gtttcagcct cccgagtagc tgggattaca ggcacctgcc
+     3661 accaggcctg ggtaactttc tggtattttt agtagagaca gggtttcagc ctcccgagta
+     3721 gctgggatta caggcacctg ccaccaggcc tgggtaactt tctggtattt ttagtagaga
+     3781 cagggtttca gcctcccgag tagctgggat tacaggcacc tgccaccagg cctgggtaac
+     3841 tttctggtat ttttagtaga gacagggttt cggcctcccg agtagctggg attacaggca
+     3901 cctgccacca ggcctgggta actttctggt atttttagta gagacagggt ttcggcctcc
+     3961 cgagtagctg ggattacagg cacctgccac caggcctggg taactttctg gtatttttag
+     4021 tagagacagg gtttcagcct cccgagtagc tgggattaca ggcacctgcc accaggcctg
+     4081 ggtaactttc tggtattttt agtagagaca gggtttcggc ctcccgagta gctgggatta
+     4141 caggcacctg ccaccaggcc tgggtaactt tctggtattt ttagtacaga cagggtttca
+     4201 gcctcccgag tagctgggat tacaggcacc tgccaccagg cctgggtaac tttctggtat
+     4261 ttttagtaga gacagggttt cggcctcccg agtagctggg attacaggca cctgccacca
+     4321 ggcctgggta actttctggt atttttagta gagacagggt ttcggcctcc cgagtagctg
+     4381 ggattacagg cacctgccac caggcctggg taactttctg gtatttttag tagagacagg
+     4441 gtttcggcct cctgagtagc tgggattaca ggcacctgcc accaggcctg ggtaactttc
+     4501 tggtattttt agtagagaca gggtttcagc ctcccgagta gctgggatta caggcacctg
+     4561 ccaccaggcc tgggtaactt tctggtattt ttagtacaga cagggtttcg gcctcctgag
+     4621 tagctgggat tacaggcacc tgccaccagg cctgggtaac tttctggtag ttttagtaga
+     4681 gacagggttt cagcctcccg agtagctggg attacaggca cctgccacca ggcctgggta
+     4741 atttttttgc atttttggta gagacaggtt tttgctgtgt tggcccggct ggtctcaaac
+     4801 tcctgacctc aggttgacct gcccgctttg tccctcgcaa agtgctggga ttacaggcgt
+     4861 gagccaccgc acctggcctg aatctgaact tttaaaaggg agttactgac tctcaactgt
+     4921 gcggggacgg tttcagtttg atttaatatg gaaagagggc caagtgtcat cctcacaaat
+     4981 gggtccccga agcagatcaa acgcagagaa ctgtgagggt gggacacgag tgtctgtgga
+     5041 cactggctgc ctttggcttt tctcctgcga gagaagttgg gtgactttct gtaggtggat
+     5101 gagtgatccc tgaatgagtg tggggtacgt gtatgctagc tgcttctttc tccctgaaac
+     5161 tctcggatgg aaggaagtaa gaaattcagc ttgggctgtg accagttctc accaccaacg
+     5221 ccctcttctc tctcccttct ccttccttcc ttccttcctt tctttctttt tctttctttc
+     5281 tctctttctt tcttttcttt ctttctgttt ctttcctttt tatctttctc tctttttctt
+     5341 tctcttttcc ttttttgttt ctttctttct ttttctttct ttctttttct ttcttctttc
+     5401 tttcttcgat gaagtctcac tctgtcaccc aggctggagt gcagtggtgc aatcccagct
+     5461 cactgcatcc tctacctcct ggcttcaaga aattctcctg cctcagcctc ccaagtagct
+     5521 gggatgacag gcacccacca ccattcccgg ataatttttg tattttttag tagagaccgg
+     5581 gtttcgccat gttggccagg ctggtcttga actcctgacc tcacatgatc cacccgcctc
+     5641 agcctcccag agtgctggga ttacggggtg aggcaccgcg cccggcctcc tctctctttt
+     5701 tctgagatgt ttaggaagga ctgggctgat ggggaccctc tgtatgtgat gtgcgtgggt
+     5761 ttggtttccc ggaaggccct ccagagacac gtttgcgtga acattcagca tggaaacaac
+     5821 atacgtctct ccacaggagg tgagaaattg aatttatggg gtgggtgtac gctggcgatt
+     5881 cttggtgctt tttgctcaaa acaaggttct tttgaaagtc acgttcctgc tttccctgtg
+     5941 gcttcccggt gagctcgctc gcagagcaag gaataccacc cagagagcaa cgtgggctgt
+     6001 gttccgatgt aacgccgttg cagagagagg atttggtgtg tgagatccgt accagctcca
+     6061 gcacactgat aggaacacgt tgctggccga actgaacgat gctgggttgg gtcctgattg
+     6121 atacgtattt tcttccctcc tctccccaaa acttggccaa atagtccgtg gagggttgtc
+     6181 agtcgccgca gttgagcaaa aaacacttct tcctttgagt ggctgttctg gtgaaatctg
+     6241 tttctgacat atccactttt ctctctcttt tctctctctc tgactgcgaa gcacccacag
+     6301 ggagaaggaa ttggatgtat cggatgttgc tattagattt tctttctccg ttcgagtctc
+     6361 tgactggtgc atactttgca aaggtgtgtt cctggcaatt gccaagagtt agaaaaatgc
+     6421 accttctctg gtggccgttg gggtgttgtt tcacaggcag tggtgacagg gccccttggc
+     6481 tgtggctgtc ttctccagcg ccgtggataa agagatggga cagattctgt gcctctgtac
+     6541 gatttagagc gtaactgacc gcgtccaaca cccgtttttc cacttacaaa gctggtggtg
+     6601 cgacgggctt ggtgtctccc gtacgggaag gaggcctttg ggccgctcca aagacgccct
+     6661 gtcgtaggaa tggcctctcc atcccgccaa agtccagcca ggcccccgaa atggtcccat
+     6721 ttccttggaa gcctgagttt ctgttctggt cttgctgctg tccttggcca cgtcagcacg
+     6781 tgggagcatc tgtggatacc gcagagtctg gggacagctg ggcgtttaac cgaaatgaag
+     6841 ccgagacggg tttcaggttt tggtgccaag ctctggtcag gatgaaaggg aaataccaga
+     6901 gtcctctgtc ctcgcctctg ggtttcatgc tgacctttct aacatttgtt ttcccctaag
+     6961 aacaagcaga agcctccagc tccctttagc tccacagttt tcccggggac atagcgagga
+     7021 tggcacacgg cagccactcc cacgacacac atttcggagg cactttgctg gaagccgctt
+     7081 gtctcctcca gctttgggag gtctggggag gagagaggct ttcggtggac acgtttgaca
+     7141 ttaaaaaaaa aaaaaaaaaa aaaaaaaaac tggtgcctaa tttattaaag agaattagct
+     7201 tagcgagtat atgctgatat tcttcgacac acgtgggtaa gttgatgcca tttataaatg
+     7261 ttttattgaa atttgatatt taatgagaag ccggttaagg aatgtagaca atatcccgtt
+     7321 tcaaagctat gaaatgtgct atttattgaa aggggatgtg gcttcacgag ttcagcccat
+     7381 tgtacgtgca ggtcccgtgg gaaggaggca aaagcccctg cttcttactt tgtgatgtat
+     7441 gtgcatttgt tatttatttt tttttccttg gtcggacgtt cataaatatg tactatttta
+     7501 attatgtcga gtgtaaattt gacatcgcgt tgcatttatt tttatatttc tgaaaactgt
+     7561 tgctttttct ttttccctcc cccattgacg acatagcggc ccccgcgtcc gggttacaaa
+     7621 tacatctaca gatattttca gggattgctt cagatgaaaa caaatcacac accgtttccc
+     7681 aaaccaacag tcttcacatt tctatccctc tgttattgtc ggcaggcggt gaggggtaga
+     7741 aaaaaaacaa acaaacaaac agaaaaaaaa accaaaaaaa accaccctga gtttctctgg
+     7801 tgacgccctc attctcctaa cgttcaataa tctcaatgtt gagttgcagc aacagactgt
+     7861 atttttgtga cgccccgtag tatgaatgta catcttgtaa aactgagata taaataaact
+     7921 tataaatatt tgta
+//
+
